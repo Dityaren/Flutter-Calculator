@@ -115,7 +115,6 @@ class CustomStk {
 
   double push(t) {
     if (oprs.contains(t)) {
-      // ignore: unnecessary_statements
       (cstStk.isEmpty) ? cstStk.add("0") : 0;
       cstStk.add(t);
       num1 = "";
@@ -173,7 +172,6 @@ class CustomStk {
 
   doOp(symbol) {
     double num1, num2;
-
     if (rstStk.length == 1) return rstStk[0];
     num1 = rstStk.last;
     rstStk.removeLast();
