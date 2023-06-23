@@ -9,10 +9,6 @@ This is a simple calculator app developed using Flutter and Dart programming lan
 - Delete the last entered character
 - View the expression being entered
 
-## Screenshots
-
-![Calculator Screenshot](screenshot.png)
-
 ## Installation
 
 To run the calculator app on your device, follow these steps:
