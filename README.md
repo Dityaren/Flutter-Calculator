@@ -1,6 +1,6 @@
 # Flutter Calculator
 
-This is a simple calculator app developed using Flutter and Dart programming language. The calculator supports basic arithmetic operations such as addition, subtraction, multiplication, and division.
+This is a calculator app developed using Flutter and Dart programming language. The calculator supports basic arithmetic operations such as addition, subtraction, multiplication, and division.
 
 ## Features
 
