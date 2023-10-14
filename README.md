@@ -18,13 +18,13 @@ To run the calculator app on your device, follow these steps:
 2. Clone the repository:
 
    ```
-   git clone https://github.com/your-username/calculator-app.git
+   git clone https://github.com/Dityaren/Flutter-Calculator
    ```
 
 3. Navigate to the project directory:
 
    ```
-   cd calculator-app
+   cd Flutter-Calculator
    ```
 
 4. Install the required dependencies:
